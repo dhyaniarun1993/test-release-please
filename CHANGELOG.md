@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.1.0...v1.1.1) (2021-08-23)
+
+
+### Bug Fixes
+
+* remove package name ([257cdb8](https://www.github.com/dhyaniarun1993/test-release-please/commit/257cdb80bd3e077940b38be36a0fdda863bfb18c))
+
 ## [1.1.0](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.0.0...v1.1.0) (2021-08-23)
 
 

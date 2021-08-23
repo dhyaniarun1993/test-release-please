@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.0.0...v1.1.0) (2021-08-23)
+
+
+### Features
+
+* added http server ([6572a01](https://www.github.com/dhyaniarun1993/test-release-please/commit/6572a017cf58aa27095218703396163e195d3373))
+* status handler added ([6c9ac9f](https://www.github.com/dhyaniarun1993/test-release-please/commit/6c9ac9f3db65e9d29d7ce66a09ac54ab221ccfea))
+
+
+### Bug Fixes
+
+* dummy fix ([386cc0c](https://www.github.com/dhyaniarun1993/test-release-please/commit/386cc0cb83b7f1088527f2c92bc49509a621a850))
+
 ## 1.0.0 (2021-08-23)
 
 

@@ -9,4 +9,5 @@ jobs:
     steps:
       - uses: GoogleCloudPlatform/release-please-action@v2
         with:
-          command: manifest
+          release-type: go
+          package-name: test-release-please

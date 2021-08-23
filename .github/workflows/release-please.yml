@@ -10,4 +10,3 @@ jobs:
       - uses: GoogleCloudPlatform/release-please-action@v2
         with:
           release-type: go
-          package-name: test-release-please

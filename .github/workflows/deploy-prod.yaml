@@ -1,0 +1,21 @@
+name: Production Deployment
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    name: Production Deployment
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - uses: kciter/aws-ecr-action@v4
+        with:
+          access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          account_id: ${{ secrets.AWS_ACCOUNT_ID }}
+          region: ${{ secrets.PROD_AWS_REGION }}
+          repo: ${{ secrets.PROD_ECR_REPOSITORY }}
+          tags: ${{ github.event.release.tag_name }}
+          create_repo: false

@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.3](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.3.2...v1.3.3) (2021-08-30)
+
+
+### Bug Fixes
+
+* deploy on release ([1d22231](https://www.github.com/dhyaniarun1993/test-release-please/commit/1d222312b26679f7ff2462204c8c13d624eeb781))
+
 ### [1.3.2](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.3.1...v1.3.2) (2021-08-30)
 
 

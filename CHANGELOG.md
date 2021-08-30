@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.1](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.3.0...v1.3.1) (2021-08-30)
+
+
+### Bug Fixes
+
+* deploy regex fixed ([46c46cd](https://www.github.com/dhyaniarun1993/test-release-please/commit/46c46cd162158d5f65416a57e7b12044b3139554))
+
 ## [1.3.0](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.2.0...v1.3.0) (2021-08-30)
 
 

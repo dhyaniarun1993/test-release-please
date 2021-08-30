@@ -8,5 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: GoogleCloudPlatform/release-please-action@v2
+        id: release
         with:
           release-type: go
+      - name: Checkout code
+        uses: actions/checkout@v2
+        if: ${{ steps.release.outputs.release_created }}
+      - name: echo tags
+        run: echo ${{ steps.release.outputs.tag_name }}
+        if: ${{ steps.release.outputs.release_created }}
+        

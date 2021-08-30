@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.2](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.3.1...v1.3.2) (2021-08-30)
+
+
+### Bug Fixes
+
+* deloy using release created ([6dfc17f](https://www.github.com/dhyaniarun1993/test-release-please/commit/6dfc17f23877e5f982502e0682c0637dd33fea19))
+
 ### [1.3.1](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.3.0...v1.3.1) (2021-08-30)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.3.3...v1.4.0) (2021-08-30)
+
+
+### Features
+
+* release and deploy merged ([ff00f48](https://www.github.com/dhyaniarun1993/test-release-please/commit/ff00f48d0544133577e6478776371b11adddcc61))
+
 ### [1.3.3](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.3.2...v1.3.3) (2021-08-30)
 
 

@@ -1,8 +1,6 @@
 name: Production Deployment
 on:
   release:
-    types:
-      - created
 
 jobs:
   build:

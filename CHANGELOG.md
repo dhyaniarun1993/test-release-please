@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.1.1...v1.2.0) (2021-08-30)
+
+
+### Features
+
+* test prod release based on tag published ([151dcf7](https://www.github.com/dhyaniarun1993/test-release-please/commit/151dcf7456f90742dbfa2b9042f9a008b34c9150))
+
 ### [1.1.1](https://www.github.com/dhyaniarun1993/test-release-please/compare/v1.1.0...v1.1.1) (2021-08-23)
 
 

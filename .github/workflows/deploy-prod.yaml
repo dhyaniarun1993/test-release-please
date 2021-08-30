@@ -1,8 +1,8 @@
 name: Production Deployment
 on:
-  push:
-    tags:
-      - '*'
+  release:
+    types:
+      - created
 
 jobs:
   build:
